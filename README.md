@@ -2,7 +2,7 @@
 ##### https://allfreelance.github.io/vue-twitter/
 
 > Fake twitter<br>
-> Used HTML, CSS, JS, Vue, Git.
+> HTML, CSS, JS, Vue, VueRouter, VueX, Git, Tailwind.
 
 [![](https://github.com/allfreelance/vue-twitter/blob/main/screen.jpg)](https://allfreelance.github.io/vue-twitter/)
 
